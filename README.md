@@ -1,4 +1,7 @@
 # MegaWinningNumbers
+
+Found that this was too complicated the repository getMegaWinningNumbers retreived the numbers with a lot less work
+
 Step 1 open an Excel file to store winning Mega Ball numbers
 
     Done 6/11/2020
